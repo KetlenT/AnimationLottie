@@ -21,6 +21,3 @@ Necessário ter as dependências padrão do React Native. Caso não tenha instal
 
 
 
-<p aligne='center'>
-  <img src='tela.gif'
-</p>
